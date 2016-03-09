@@ -1,2 +1,2 @@
 # notebooks
-Repository for all my IPython notebooks
+Repository for all my Jupyter notebooks
