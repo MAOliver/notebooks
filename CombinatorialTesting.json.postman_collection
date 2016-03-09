@@ -1,0 +1,43 @@
+{
+	"id": "fb8ee997-7944-b912-f318-20084a4c57e1",
+	"name": "CombinatorialTesting",
+	"description": "# Example Tests\n\nA set of generated tests for postman.",
+	"order": [
+		"9e3dcdb0-2d28-c6f8-0fcf-66dd654ffe3e"
+	],
+	"folders": [
+		{
+			"id": "869deeff-47cd-7504-41dd-5b278fae7b73",
+			"name": "Folder1",
+			"description": "# Foldername\n\nThis holds requests",
+			"order": []
+		}
+	],
+	"timestamp": 1457502197905,
+	"owner": 0,
+	"remoteLink": "",
+	"public": false,
+	"requests": [
+		{
+			"id": "9e3dcdb0-2d28-c6f8-0fcf-66dd654ffe3e",
+			"headers": "Content-Type: application/json\n",
+			"url": "{{Url}}/Example",
+			"pathVariables": {},
+			"preRequestScript": "",
+			"method": "POST",
+			"collectionId": "fb8ee997-7944-b912-f318-20084a4c57e1",
+			"data": [],
+			"dataMode": "raw",
+			"name": "Example1",
+			"description": "# Tests some thing\n\nThis tests thing 1",
+			"descriptionFormat": "html",
+			"time": 1457502365809,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "{\"loanType\": \"Purchase\", \"state\": \"AZ\", \"policyCount\": 1, \"isVal\": true}"
+		}
+	]
+}
